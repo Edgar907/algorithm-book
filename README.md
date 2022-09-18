@@ -1,0 +1,1 @@
+This repository is a book of C++ snippets which are made for problem solving.
